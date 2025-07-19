@@ -8,6 +8,5 @@ In collaboration with The Fellowship Program:
 - Demonstrated strong hands-on cybersecurity skills in areas such as vulnerability identification, exploit development, and secure coding practices.
 
 📁 **Documentation**
-
-<a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/blob/main/Team%20B%20-%20CTF%20Documentation%20.pdf">CTF Writeup Documentation </a>
+- <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/blob/main/Team%20B%20-%20CTF%20Documentation%20.pdf">CTF Writeup Documentation </a>
 
