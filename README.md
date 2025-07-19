@@ -1,5 +1,6 @@
 🚩 **Bloomberg-Hackathon-CTF** 
-In collaboration with The Fellowship Program: 
+
+ In collaboration with The Fellowship Program: 
 - Directed a high-performing team to victory, securing the most flags in the competition through strategic planning, technical expertise, and effective task delegation.
 - Solved advanced security puzzles covering cryptography, ethical hacking, reverse engineering, and network analysis under timed pressure.
 - Designed and implemented interactive challenge dashboards and dynamic submission forms using DOM manipulation and frontend scripting.
